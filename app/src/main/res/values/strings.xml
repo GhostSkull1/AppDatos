@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppDatos</string>
+    <string name="titulo">VOTACIÓN</string>
+    <string name="nombre">NOMBRE: </string>
+    <string name="cedula">CEDULA: </string>
+    <string name="fechadenacimiento">FECHA DE NACIMIENTO: </string>
+    <string name="btnA">A</string>
+    <string name="btnB">B</string>
+    <string name="btnC">C</string>
+    <string name="tvboton">VOTO POR: </string>
+</resources>
